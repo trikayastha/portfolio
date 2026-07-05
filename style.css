@@ -97,11 +97,14 @@ strong { font-weight: 500; }
   padding-block: 2rem;
 }
 .mark {
-  font-family: "Honk", "Google Sans", system-ui, sans-serif;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 1.05rem;
   letter-spacing: 0.02em;
   border: none;
+}
+.mark:hover {
+  font-family: "Honk", "Google Sans", system-ui, sans-serif;
+  font-weight: 400;
 }
 .nav a {
   margin-left: 1.4rem;
