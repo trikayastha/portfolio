@@ -1,11 +1,14 @@
+@page {
+  margin: 28px 40px;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
   font-size: 11pt;
   line-height: 1.5;
   color: #111;
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 32px 40px;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
