@@ -31,7 +31,7 @@
 
 ## Intro
 
-I'm a **product & business analyst**. For the last six years I've worked on homegrown fintech, logistics, crypto intelligence, and ERP products — the kind of software real businesses run their day on.
+I'm transitioning into **Product Management**, with 6+ years of extensive experience in product & business analytics — spent working on homegrown fintech, logistics, crypto intelligence, and ERP products, the kind of software real businesses run their day on.
 
 My favourite part of the job is the messy middle: sitting with users, untangling what they actually need from what they say they want, and turning a thousand scattered feedback points into a roadmap someone can build. I like numbers that tell a story — retention curves, funnels, unit economics — and I like shipping the small nudges that move them.
 
