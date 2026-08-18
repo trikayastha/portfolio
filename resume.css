@@ -37,6 +37,17 @@ p {
   margin: 4px 0;
 }
 
+p.contact {
+  font-size: 10.5pt;
+  color: #333;
+}
+
+p.role {
+  font-size: 10.5pt;
+  color: #333;
+  margin: 0 0 2px;
+}
+
 ul {
   margin: 4px 0;
   padding-left: 18px;

@@ -8,9 +8,9 @@
 | Field | Value |
 |---|---|
 | Page title | Tribesh Kayastha |
-| Meta description | Product & Business Analyst based in Kathmandu. I turn messy user feedback into products people actually use. |
+| Meta description | Product Manager specialising in product analytics, based in Kathmandu. I turn messy user feedback into products people actually use. |
 | OG title | Tribesh Kayastha |
-| OG description | Product & Business Analyst based in Kathmandu. I turn messy user feedback into products people actually use. |
+| OG description | Product Manager specialising in product analytics, based in Kathmandu. I turn messy user feedback into products people actually use. |
 
 ---
 
@@ -31,11 +31,11 @@
 
 ## Intro
 
-I'm transitioning into **Product Management**, with 6+ years of extensive experience in product & business analytics — spent working on homegrown fintech, logistics, crypto intelligence, and ERP products, the kind of software real businesses run their day on.
+I'm a **Product Manager** specialising in product analytics, with 6+ years of extensive experience — spent working on homegrown accounting, logistics, crypto intelligence, and ERP products, the kind of software real businesses run their day on.
 
 My favourite part of the job is the messy middle: sitting with users, untangling what they actually need from what they say they want, and turning a thousand scattered feedback points into a roadmap someone can build. I like numbers that tell a story — retention curves, funnels, unit economics — and I like shipping the small nudges that move them.
 
-Most recently I was a **business analyst at Yirifi**, a crypto and digital asset intelligence platform, where I built the analytics framework, freemium growth model, content strategy, and a multi-agent AI pipeline that produced 20+ assets a week. Before that I spent a year and a half as **lead product analyst at Karobar**, an accounting platform used by 500K+ small businesses — where I ran market expansion into Indonesia, Nigeria, and the Philippines on top of the core analytics and retention work. When I'm away from the dashboards you'll find me deep in Ironman training or building odd little web experiments for fun.
+Most recently I was a **Product Manager at Yirifi**, a crypto and digital asset intelligence platform, where I built the analytics framework, freemium growth model, content strategy, and a multi-agent AI pipeline that produced 20+ assets a week. Before that I spent a year and a half as **Product Manager at Karobar**, an accounting platform used by 500K+ small businesses — where I ran market expansion into Indonesia, Nigeria, and the Philippines on top of the core analytics and retention work. When I'm away from the dashboards you'll find me deep in Ironman training or building odd little web experiments for fun.
 
 ---
 
@@ -80,7 +80,7 @@ Launched the on-demand 2-wheeler fleet from scratch: business case, rider incent
 
 | Label | URL |
 |---|---|
-| résumé | Business Analyst - Tribesh Kayastha.pdf |
+| résumé | Product Manager - Tribesh Kayastha.pdf |
 | email | trikayastha@gmail.com |
 | linkedin | https://www.linkedin.com/in/trikayastha/ |
 
